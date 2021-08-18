@@ -1,19 +1,15 @@
-# practical
+# Практическая работа "Разработка Web-приложений и распределенных систем на языке JAVA"
 
-## Project setup
+### - В работе использовалась библиотека Vue.js
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+Vue.js - один из самых популярных инструментов для создания интерфейсов и одностраничных приложений (SPA).
+Был создан бывшим инженером Google Evan You, релиз состоялся в 2014 г.
+Vue.js частично реализует MVVM (Model View ViewModel) паттерн, используя ViewModel для работы своих однофайловых компонентов (Single File Component).
 ```
 
-### Compiles and minifies for production
-```
-npm run build
+### - Для написаний стилей использовался предпроцессор SCSS
+
+### Структура проекта
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+```
